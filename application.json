@@ -1,0 +1,16 @@
+{
+  "isPublic": false,
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#ECECEC",
+  "slug": "my-first-application",
+  "evaluationVersion": 2,
+  "publishedModeThemeId": "620e8e4790fcdb3e8097083f",
+  "editModeThemeId": "620e8e4790fcdb3e8097083f",
+  "createdAt": {
+    "seconds": 1645121190,
+    "nanos": 920000000
+  },
+  "deleted": false
+}
